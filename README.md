@@ -1,16 +1,19 @@
-# Excel for Economists (Course Exercises)
+# Excel for Economists
 
-Eight exercises from an Excel course for economists (2020).
+> Financial and analytical Excel, from lookups to NPV, loan sensitivity tables and Solver optimization.
 
-**Context:** course exercises · **Author:** Amit Stein
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+## Highlights
+
+- Investment appraisal with PV and NPV.
+- Loan payments (PMT) with one- and two-variable sensitivity tables and Goal Seek.
+- Integer optimization with Solver.
 
 ## Topics
-- Formulas with absolute and relative references; IF, AND, OR
-- Statistical functions: average, median, mode, standard deviation
-- Date and time functions
-- Investment appraisal with PV and NPV
-- Lookups with VLOOKUP and database functions (DCOUNTA)
-- Loan payments with PMT, one- and two-variable sensitivity tables, and Goal Seek
-- Integer optimization with Solver
 
-**Tools:** Excel
+Absolute and relative references; IF, AND, OR; statistical, date and time functions; VLOOKUP and database functions (DCOUNTA); PMT, data tables and Goal Seek; Solver.
+
+## Context
+
+Eight course exercises (2020). The exercises were set by the course; the solutions are mine.
